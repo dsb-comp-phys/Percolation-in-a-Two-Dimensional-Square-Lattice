@@ -1,6 +1,6 @@
 # Percolation-in-a-Two-Dimensional-Square-Lattice
 
-SEE Percolation_in_a_Two_Dimensional_Square_Lattice.pdf FOR FULL REPORT OF PROJECT!
+(SEE Percolation_in_a_Two_Dimensional_Square_Lattice.pdf FOR FULL REPORT OF PROJECT!)
 
 Using MATLAB, designed a simulation of a square lattice undergoing percolation.
 
