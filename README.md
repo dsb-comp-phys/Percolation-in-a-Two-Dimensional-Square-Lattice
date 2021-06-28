@@ -1,6 +1,6 @@
 # Percolation-in-a-Two-Dimensional-Square-Lattice
 
-See full report [here](https://github.com/dsb-comp-phys/Percolation-in-a-Two-Dimensional-Square-Lattice/blob/main/Percolation_in_a_Two_Dimensional_Square_Lattice.pdf).
+_See full report [here](https://github.com/dsb-comp-phys/Percolation-in-a-Two-Dimensional-Square-Lattice/blob/main/Percolation_in_a_Two_Dimensional_Square_Lattice.pdf)._
 
 Using MATLAB, designed a simulation of a square lattice undergoing percolation.
 
